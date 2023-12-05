@@ -19,3 +19,5 @@ Google Pay,
 Apple Pay
 
 This is an important development for security researchers and experts. The APK and source code can be used to gain a better understanding of how Alien operates. This information can be utilized to develop new methods for detecting and preventing Alien. Additionally, you can use the APK code as a reference to develop your own software.
+
+# Edu purposes.
